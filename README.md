@@ -1,2 +1,2 @@
-# Khalid-Waleed-CV
-My CV
+# Khalid-Waleed-Resume
+My Resume
